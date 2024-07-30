@@ -144,7 +144,7 @@ Private Sub btnSuggestRobot_Click(sender As Object, e As EventArgs) Handles btnS
 End Sub
 ```
 
-This is a basic example to get you started. You can expand the suggestion logic by implementing machine learning algorithms to analyze user needs and suggest the most suitable robots based on the stored data.
+This is a basic example to get you started. One can expand the suggestion logic by implementing machine learning algorithms to analyze user needs and suggest the most suitable robots based on the stored data.
 
 
 Created on 2012-07-13
